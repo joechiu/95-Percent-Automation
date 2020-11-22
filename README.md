@@ -17,7 +17,7 @@ This commitment is a sample to create a demo task which is able to finish the as
 
 ## Pre-Requisite
 - GCP account for IaC
-- Centos 7
+- Ansible service environment
 - Github for Jenkins integration
 - gcloud enabled (optional)
 
