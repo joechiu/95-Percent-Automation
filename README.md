@@ -42,17 +42,9 @@ This commitment is a sample to create a demo task which is able to finish the as
 ![The stages for this case](https://github.com/joechiu/95-Percent-Automation/blob/main/images/jenkins-demo.PNG?raw=true)
 
 ## TODO
-- debug and troubleshooting the app.
-- fix the bugs.
-- make swagger up and run.
+- fix the bugs if exist.
 - use an elegant domain name.
 - 100% automation.
-
-## Issues
-- issue found when try to create (post method) a message:
-  post: '{"title":"","priority":1000,"completed":false,"id":0,"Title":"foo"}'
-  return: {'content': b"invalid character 'i' in literal true (expecting 'r')\n"}
-- swagger does not work, it returns 404 error.
 
 ## Links
 - task documentation github:  https://github.com/joechiu/95-Percent-Automation
