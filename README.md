@@ -10,7 +10,7 @@ This commitment is a sample to create a demo task which is able to finish the as
 - the app is run by golang, however it's partially working and provides limited functions as my experiment.
 - the infrastructure codes for creating VM and connection to GCP.
 - a TechChallengeApp application running on port 3000.
-- docker postgrs db running on port 5432
+- docker postgres db running on port 5432
 - docker Jenkins running on port 8080
 - a testing Jenkins site is available for showing CI / CD tests.
 - Ansible playbooks run as IaC for the CI / CD automation.
