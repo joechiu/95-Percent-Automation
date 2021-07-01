@@ -3,7 +3,7 @@
 This commitment is a sample to create a demo task which is able to finish the assigned job by 95% automation process including automation infrastructure, application installations, deployment, CI / CD solutions, tests and version control.
 
 ## Summary
-- update the configurations in the your-task directory to meet your requirements in each of the codes, yml files and configurations.
+- update the changes in the your-task directory to meet your requirements in each of the codes, yml files and configurations.
 - this task is built for the Job TechChallengeApp for a demonstration purpose.
 - the automation tasks include automation infrastructure, application installations, deployment, CI / CD solutions, tests and version control.
 - the automation processes for this sample are tested and running.
