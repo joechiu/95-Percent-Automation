@@ -31,6 +31,7 @@ This commitment is a sample to create a demo task which is able to finish the as
 - login with admin/foobar
 - build JobDemo to see the CI / CD process
 
+
 ## Showcase
 - This showcase will be presenting to the customers about how the application integration and deployment are done by Jenkins CI / CD and updating a version tag then pushing to the github repository if the case succeeds.
 - The stages for this case include "Start Task", "Update Change", "Preload for Deployment", "Init Working Env", "Deploy Application", "Preload for Testing", "Skipping Create", "Testing Read", "Skipping Update", "Testing Delete" and "Commit Version Change".
@@ -48,3 +49,11 @@ This commitment is a sample to create a demo task which is able to finish the as
 - forked application github: https://github.com/joechiu/95-Percent-Automation
 - Jenkins demo site: http://xxx.xxx.xxx.xxx:8080/ (replace the xxx with your IP address)
 - application URL: http://xxx.xxx.xxx.xxx:3000/(replace the xxx with your IP address) 
+
+## Contributors
+
+You are free to update these tools to make this project more useful and helpful.
+
+## License
+
+A short snippet describing the license (MIT, Apache, etc.)
