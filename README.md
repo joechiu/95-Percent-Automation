@@ -40,7 +40,7 @@ This commitment is a sample to create a demo task which is able to finish the as
 - Once the test completed, the root.go code version will be increased by 1 and pushed into the forked repository to complete the user case.
 
 ## TODO
-- fix the bugs if exist.
+- fix bugs if exist.
 - use an elegant domain name.
 - 100% automation.
 
