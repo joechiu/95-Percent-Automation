@@ -32,13 +32,13 @@ This commitment is a sample to create a demo task which is able to finish the as
 - build JobDemo to see the CI / CD process
 
 ## Showcase
-- This showcase will be presenting to the customers about how the application integration and deployment are done by Jenkins CI / CD and raising the version tag to push to the forked repository if the case succeeds.
+- This showcase will be presenting to the customers about how the application integration and deployment are done by Jenkins CI / CD and updating a version tag then pushing to the github repository if the case succeeds.
 - The stages for this case include "Start Task", "Update Change", "Preload for Deployment", "Init Working Env", "Deploy Application", "Preload for Testing", "Skipping Create", "Testing Read", "Skipping Update", "Testing Delete" and "Commit Version Change".
-- Any commitments submitted to the forked repository the Jenkins pipeline will trigger the deployment process to install the application.
+- Any commitments submitted to the github repository, the Jenkins pipeline will trigger the deployment process to install the application.
 ![Installed case sample](https://github.com/joechiu/95-Percent-Automation/blob/main/images/app-dump.PNG?raw=true)
 - Right after deployed the application, it will start testing the API which can include unit tests, load testing performance tests and integration tests, for example. 
 ![An example for this showcase](https://github.com/joechiu/95-Percent-Automation/blob/main/images/jenkins-demo-app-dump.PNG?raw=true)
-- Once complete the test, the root.go code version will be increased by 1 and pushed into the forked repository to complete the showcase.
+- Once the test completed, the root.go code version will be increased by 1 and pushed into the forked repository to complete the user case.
 ![The stages for this case](https://github.com/joechiu/95-Percent-Automation/blob/main/images/jenkins-demo.PNG?raw=true)
 
 ## TODO
