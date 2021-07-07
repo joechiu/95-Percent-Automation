@@ -1,6 +1,6 @@
 # 95-Percent-Automation 
 ## 95% Automation
-This commitment is a sample to create a demo task which is able to finish the assigned job by 95% automation process including automation infrastructure, application installations, deployment, CI / CD solutions, tests and version control.
+This commitment is a sample aims to accomplish a demo tasks by 95% automation CI / CD process. The tasks includes automation infrastructure, application installations, VM deployment, CI / CD solutions, tests and version control.
 
 ## Summary
 - update the changes in the your-task directory to meet your requirements in each of the codes, yml files and configurations.
@@ -16,6 +16,7 @@ This commitment is a sample to create a demo task which is able to finish the as
 - Ansible playbooks run as IaC for the CI / CD automation.
 
 ## Pre-Requisite
+- Jenkins
 - GCP account for IaC
 - Ansible service environment
 - Github for Jenkins integration
