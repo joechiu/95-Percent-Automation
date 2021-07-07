@@ -1,5 +1,5 @@
 # 95-Percent-Automation 
-## 95% Automation
+## 95% Automation by Jenkins CI / CD
 This commitment is a sample aims to accomplish a demo tasks by 95% automation CI / CD process. The tasks includes automation infrastructure, application installations, VM deployment, CI / CD solutions, tests and version control.
 
 ## Summary
